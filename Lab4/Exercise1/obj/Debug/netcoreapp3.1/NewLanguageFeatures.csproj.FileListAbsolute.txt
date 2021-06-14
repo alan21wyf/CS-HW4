@@ -1,0 +1,13 @@
+D:\Antra\Homework\C#\HW3&4\Lab4\Exercise1\bin\Debug\netcoreapp3.1\NewLanguageFeatures.exe
+D:\Antra\Homework\C#\HW3&4\Lab4\Exercise1\bin\Debug\netcoreapp3.1\NewLanguageFeatures.deps.json
+D:\Antra\Homework\C#\HW3&4\Lab4\Exercise1\bin\Debug\netcoreapp3.1\NewLanguageFeatures.runtimeconfig.json
+D:\Antra\Homework\C#\HW3&4\Lab4\Exercise1\bin\Debug\netcoreapp3.1\NewLanguageFeatures.runtimeconfig.dev.json
+D:\Antra\Homework\C#\HW3&4\Lab4\Exercise1\bin\Debug\netcoreapp3.1\NewLanguageFeatures.dll
+D:\Antra\Homework\C#\HW3&4\Lab4\Exercise1\bin\Debug\netcoreapp3.1\NewLanguageFeatures.pdb
+D:\Antra\Homework\C#\HW3&4\Lab4\Exercise1\obj\Debug\netcoreapp3.1\NewLanguageFeatures.csproj.AssemblyReference.cache
+D:\Antra\Homework\C#\HW3&4\Lab4\Exercise1\obj\Debug\netcoreapp3.1\NewLanguageFeatures.AssemblyInfoInputs.cache
+D:\Antra\Homework\C#\HW3&4\Lab4\Exercise1\obj\Debug\netcoreapp3.1\NewLanguageFeatures.AssemblyInfo.cs
+D:\Antra\Homework\C#\HW3&4\Lab4\Exercise1\obj\Debug\netcoreapp3.1\NewLanguageFeatures.csproj.CoreCompileInputs.cache
+D:\Antra\Homework\C#\HW3&4\Lab4\Exercise1\obj\Debug\netcoreapp3.1\NewLanguageFeatures.dll
+D:\Antra\Homework\C#\HW3&4\Lab4\Exercise1\obj\Debug\netcoreapp3.1\NewLanguageFeatures.pdb
+D:\Antra\Homework\C#\HW3&4\Lab4\Exercise1\obj\Debug\netcoreapp3.1\NewLanguageFeatures.genruntimeconfig.cache

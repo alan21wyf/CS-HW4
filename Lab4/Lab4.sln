@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewLanguageFeatures", "Exercise1\NewLanguageFeatures.csproj", "{E3656C9C-45FE-462D-869B-7187DE1C5046}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise3", "Exercise3\Exercise3.csproj", "{1BCD574C-670C-4780-A2C9-36BCE05C90E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3656C9C-45FE-462D-869B-7187DE1C5046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3656C9C-45FE-462D-869B-7187DE1C5046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3656C9C-45FE-462D-869B-7187DE1C5046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3656C9C-45FE-462D-869B-7187DE1C5046}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BCD574C-670C-4780-A2C9-36BCE05C90E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BCD574C-670C-4780-A2C9-36BCE05C90E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BCD574C-670C-4780-A2C9-36BCE05C90E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BCD574C-670C-4780-A2C9-36BCE05C90E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C3A4476-820B-4BED-8C54-E4F823C53E19}
+	EndGlobalSection
+EndGlobal
